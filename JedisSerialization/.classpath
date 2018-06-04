@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Software/Firefox Download/jedis-2.9.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Json"/>
+	<classpathentry kind="lib" path="D:/Software/Firefox Download/fastjson-1.2.47.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Firefox Download/protostuff-core-1.5.9.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Firefox Download/protostuff-runtime-1.5.9.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Firefox Download/protostuff-api-1.5.9.jar"/>
+	<classpathentry kind="lib" path="D:/Software/Firefox Download/protostuff-collectionschema-1.5.9.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
